@@ -25,6 +25,6 @@ Il vérifie automatiquement les champs suivants à chaque frappe :
 
 
 
-👉 [Voir le formulaire en action](https://amadou250.github.io/form-validation-project)
 
-## 📂 Structure du projet
+
+
