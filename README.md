@@ -1,7 +1,5 @@
  Formulaire de contact avec validation dynamique
 
-
-
  Description
 Ce projet est un formulaire de contact interactif avec validation en temps réel.  
 Il vérifie automatiquement les champs suivants à chaque frappe :
@@ -24,7 +22,7 @@ Il vérifie automatiquement les champs suivants à chaque frappe :
 -  Message temporaire en cas de tentative d’envoi échouée
 
 
-
+Lien:https://amadou250.github.io/form-validation-project/
 
 
 
